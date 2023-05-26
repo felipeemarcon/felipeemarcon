@@ -9,4 +9,4 @@ I'm a brazillian Product Designer and Web Developer and right now I'm working wi
 - 🔭 I’m currently working at Stone, a brazillizan fintech
 - 🌱 I’m currently learning about Design Systems, Javascript, React and PHP
 - 📫 How to reach me: oi@felipemarcon.com.br
-- 😄 Pronouns: He/his/him
+- 😄 Pronouns: He/him
